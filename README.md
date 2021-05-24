@@ -4,7 +4,7 @@ A web based solution for solving the problem of human resource planning of front
  USER can be of two types one is  who is volunteer like health workers,socail workers and other is employer like Hospital , NGOs etc.Volunteer like health workers,socail workers can send their data to ADMIN for adding to list .
  ADMIN confirm the applicants , post their data on main website for employers to see. Employers select the required person,proceed to checkout after payment is done. the bill is sent to ADMIN which conform the mode  of payment and send message to the employee with address and contact no. of the employer to join.
 
-TECH STACK USED WAS -:
+# TECH STACK USED WAS -:
 MAVEN
 JAVA ENTERPRISE (JDK 8)
 JSP AND SERVLET
